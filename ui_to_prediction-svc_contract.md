@@ -1,4 +1,4 @@
-## UI To PREDICTION-SERVICE Request ==================================================================================
+## UI To PREDICTION-SERVICE Request =============
 #### HTTP Operation: GET 
 #### Format: JSON
 
@@ -13,7 +13,7 @@
 ```
 
 
-## UI To PREDICTION-SERVICE Response==================================================================================
+## UI To PREDICTION-SERVICE Response ============
 #### Format: JSON
 
 ### Example:
