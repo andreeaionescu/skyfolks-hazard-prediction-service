@@ -1,12 +1,14 @@
 ## UI To PREDICTION-SERVICE Request =============
-#### HTTP Operation: GET 
+#### Name: Is Hazard at this latitude and longitude?
+#### HTTP Operation: POST 
+#### Path: /hazard/predict
 #### Format: JSON
 
-### Example:
+### Request Body:
 
 ```
 {
-    lattitude: 14.021,
+    latitude: 14.021,
     longitude: -124.034,
     predict: [ "hurricane" ]
 }
@@ -16,10 +18,10 @@
 ## UI To PREDICTION-SERVICE Response ============
 #### Format: JSON
 
-### Example:
+### Response Body:
 ```
 {
-    lattitude: 14.021,
+    latitude: 14.021,
     longitude: -124.034,
     predicted: [
         {
