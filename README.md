@@ -15,3 +15,5 @@ Countless phenomena such as floods, fires, and algae blooms routinely impact eco
 Your challenge is to use satellite data to create a machine learning model that detects a specific phenomenon and build an interface that not only displays the detected phenomenon, but also layers it alongside ancillary data to help researchers and decision-makers better understand its impacts and scope.
 
 Our team will be focusing on predicting hurricans.
+
+![Hurricane Teddy](https://eoimages.gsfc.nasa.gov/images/imagerecords/147000/147322/teddy_tmo_2020266.jpg)
